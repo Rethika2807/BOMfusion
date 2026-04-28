@@ -1,1 +1,1 @@
-# BOMfusion
+# eBOM → mBOM AI System
